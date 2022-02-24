@@ -1,4 +1,4 @@
-# Text-Messaing-App
+# Text-Messaging-App
 
 Text-Messaging-App is a MERN Stack Chatting App, which uses Socket.io for real time communication and stores user details in encrypted format in MongoDB.
 
